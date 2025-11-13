@@ -6,6 +6,7 @@
 //% blockNamespace=sprites
 //% blockId=sprites_capture_screen_blitted_screen_image 
 //% block="screen image controlled size scale x %sx scale y %sy"
+//% group=Scale
 function captureScreenImageBySize(sx: number, sy: number) {
   pause(0); // for it to pause before captuing stuff currently now on the screen
 
